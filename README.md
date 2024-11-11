@@ -63,7 +63,6 @@ For a detailed explanation of the mathematical methods and results, refer to the
 
 ## Additional Resources
 - [Project Report (PDF)](./NumericalAnalysis.pdf) - Contains detailed explanations of the methods, calculations, and results in Greek.
-- The [Python code file](./NumericalAnalysis.py) includes comments for easy reference.
 
 ---
 
